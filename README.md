@@ -47,7 +47,7 @@ python easyocr/cli.py --image <path_to_image>
 
 ## Credits
 
-This project is inspired by ([EasyOCR](https://github.com/JaidedAI/EasyOCR)) developed by JaidedAI. We acknowledge and appreciate their contributions to the field of Optical Character Recognition.
+This project is inspired by [EasyOCR](https://github.com/JaidedAI/EasyOCR) developed by JaidedAI. We acknowledge and appreciate their contributions to the field of Optical Character Recognition.
 
 ## Contributing
 
